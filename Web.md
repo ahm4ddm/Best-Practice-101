@@ -1,4 +1,4 @@
-# Enumerasi (tahapan mendapatkan informasi)
+# Web
 * Cek dengan web browser.
 
 * Lihat apa yang ditampilkan.
